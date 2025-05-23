@@ -1,0 +1,88 @@
+import time
+
+
+print("Hello to Bank! Console edition")
+print("Conecting to Server...")
+time.sleep(1)
+print("Conecting to Data Base")
+time.sleep(1)
+id_enter = input("ID: ")
+
+if id_enter == "id0" :
+    print()
+else:
+    print("Not acepted")
+    time.sleep(3)
+    exit(0)
+
+pass0 = input("Password: ")
+
+if pass0 == "001" :
+    print("Acepted")
+else:
+    print("Not Acepted")
+    time.sleep(3)
+    exit(0)
+
+print("Data Base Account")
+
+time.sleep(1)
+print("id0")
+time.sleep(1)
+print("id1")
+time.sleep(1)
+print("id2")
+time.sleep(1)
+print("id3")
+time.sleep(1)
+print("id4")
+time.sleep(1)
+print("id5")
+time.sleep(1)
+print("id6")
+time.sleep(1)
+print("id7")
+time.sleep(1)
+print("id8")
+time.sleep(1)
+print("id9")
+time.sleep(1)
+print("id10")
+time.sleep(1)
+print("id11")
+time.sleep(1)
+print("id12")
+time.sleep(1)
+print("id13")
+
+
+print("Data Base Tansfer")
+
+time.sleep(1)
+print("id1 [100$]")
+time.sleep(1)
+print("id2 [100$]")
+time.sleep(1)
+print("id3 [100$]")
+time.sleep(1)
+print("id4 [100$]")
+time.sleep(1)
+print("id5 [100$]")
+time.sleep(1)
+print("id6 [100$]")
+time.sleep(1)
+print("id7 [100$]")
+time.sleep(1)
+print("id8 [100$]")
+time.sleep(1)
+print("id9 [100$]")
+time.sleep(1)
+print("id10 [100$]")
+time.sleep(1)
+print("id11 [100$]")
+time.sleep(1)
+print("id12 [100$]")
+time.sleep(1)
+print("id13 [100$]")
+
+input("Press Enter to Exit")
